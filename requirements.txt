@@ -1,0 +1,3 @@
+NBT
+mariadb
+python-dotenv
